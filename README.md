@@ -2,15 +2,19 @@
 
 1. ¿Qué es una página web?
 
-Es el contenido visual, que se ha hecho en html
+    Es el contenido visual, que se ha hecho en html.
 
 2. ¿Qué es un servidor web?
 
-Es el lugar donde se sube toda la carpeta de la pagina web y hace que sea visible en internet nuestra web, un ejemplo de servidor web es IIS. 
+    Es el lugar donde se sube toda la carpeta de la pagina web y hace que sea visible en internet nuestra web, un ejemplo de servidor web es IIS. 
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuantos conoces?
 
-Es un tipo de lenguaje que permite la creacion de paginas webs .Conozco 3 que son: HTML, CSS y Markdown
+| Lenguaje de marca | Documentacion |
+|:.................:|:........................:|
+|1. HTML | documentacion |
+|1. CSS | documentacion |
+|1. Markdown | documentacion |
 
 4. ¿Qué es HTML? ¿Sabes cómo funciona?
 
