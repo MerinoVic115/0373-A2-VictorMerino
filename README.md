@@ -13,12 +13,24 @@
     |Lenguaje de marcas | Documentacion |
     |:------------------:|:--------------:|
     |1. HTML |[Documentacion HTML](https://lenguajehtml.com/html/ "Documentacion-HTML") |
-    |2. CSS |[Documentacion CSS](https://lenguajehtml.com/css/ "Documentacion-CSS") |
+    |2. CSS |[Documentacion CSS](https://lenguajecss.com/css/ "Documentacion-CSS") |
     |3. Markdown |[Documentacion Markdown](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown "Documentacion-Markdown") |
 
 4. ¿Qué es HTML? ¿Sabes cómo funciona?
 
-    Un lenguaje de marcas, permite la creación básica de una web.
+    ```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    </head>
+    <body>
+    
+    </body>
+    </html>
+    ```
 
 5. ¿Qué es CSS?
 
