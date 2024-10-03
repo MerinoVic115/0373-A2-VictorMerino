@@ -13,8 +13,8 @@
     |Lenguaje de marcas | Documentacion |
     |:------------------:|:--------------:|
     |1. HTML |[Documentacion HTML](https://lenguajehtml.com/html/ "Documentacion-HTML") |
-    |2. CSS |Documentacion |
-    |3. Markdown |Documentacion |
+    |2. CSS |[Documentacion CSS](https://lenguajehtml.com/css/ "Documentacion-CSS") |
+    |3. Markdown |[Documentacion Markdown](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown "Documentacion-Markdown") |
 
 4. ¿Qué es HTML? ¿Sabes cómo funciona?
 
