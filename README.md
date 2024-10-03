@@ -10,10 +10,11 @@
 
 3. ¿Qué son los lenguajes de marcas? ¿Cuantos conoces?
 
-| Lenguaje de marca | Documentacion |
-|1. HTML | documentacion |
-|2. CSS | documentacion |
-|3. Markdown | documentacion |
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:--------------:|------------------:|
+|SMX2 |Curso 2423 |25 |
+|**ASIX1** |Curso 2425 |33 |
+|DAW2 |Curso 2425 |32 |
 
 4. ¿Qué es HTML? ¿Sabes cómo funciona?
 
