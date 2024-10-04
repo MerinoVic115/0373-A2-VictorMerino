@@ -42,4 +42,7 @@
 
 6. ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web.
 
-    ![Esquema de peticiones HTML](https://example.com/imagen.jpg)
+    ![Esquema de peticiones HTML](https://github.com/MerinoVic115/0373-A2-VictorMerino/blob/main/Captura%20de%20pantalla%202024-10-04%20160240.png "Esquema de peticiones HTML")
+
+
+    _Figura 2: Esquema de peticiones HTML_
